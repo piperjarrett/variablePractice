@@ -11,5 +11,10 @@
 
 # Booleans Variable
 1. var online = 'true'
-1. var wifi = 'on'
-1. var payment = 'yes'
+1. var wifi = 'false'
+1. var payment = 'true'
+
+# New Assiged Variables
+1. var age = '34'
+1. var temp = '82'
+1. var online = 'false'
