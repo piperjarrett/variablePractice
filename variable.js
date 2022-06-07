@@ -16,3 +16,6 @@ var payment = 'true'
 var age = '34'
 var temp = '82'
 var online = 'false'
+console.log(age)
+console.log(wifi)
+console.log(name)
